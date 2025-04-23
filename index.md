@@ -43,3 +43,5 @@ Syntax highlighted code block
 
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Lc3_2018_%28263682303%29_%28cropped%29.jpeg" alt="Image Linus" title="boum j'ai réussi" /></p>
