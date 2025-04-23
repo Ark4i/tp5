@@ -19,25 +19,21 @@ Syntax highlighted code block
 [DonPolo](DonPolo.md)
 
 <table>
-    <thead>
-        <tr>
-            <th>Item </th>
-            <th>Prix </th>      
-            <th>Stock</th>
-        </tr>
-    </thead>
-    <tbody>
-            <tr>
-                <td>Pommes</td>
-                <td>1.99</td>
-                <td>739</td>
-            </tr>
-            <tr>
-                <td>Bananas</td>
-                <td>1.89</td>
-                <td>6</td>
-            </tr>
-    </tbody>
+    <tr>
+        <th>Item</th>
+        <th>Prix</th>
+        <th>Stock</th>
+    </tr>
+    <tr>
+        <td>Pommes</td>
+        <td>1.99</td>
+        <td>739</td>
+    </tr>
+    <tr>
+        <td>Bananas</td>
+        <td>1.89</td>
+        <td>6</td>
+    </tr>
 </table>
 
 
@@ -49,22 +45,24 @@ Syntax highlighted code block
 
 <style>
 table {
-  border-collapse: collapse;
   width: 600px;
+  border-collapse: collapse;
   font-family: Arial, sans-serif;
-  font-size: 16px;
+  font-size: 18px; /* Taille du texte */
+  table-layout: fixed; /* Force la largeur */
 }
 
 th, td {
   border: 1px solid #ccc;
-  text-align: left;
-  padding: 12px;
+  padding: 10px;
+  text-align: center; /* Centre le contenu */
 }
 
 th {
   background-color: #222;
   color: white;
   font-weight: bold;
+  font-size: 20px; /* Taille du texte dans l'en-tête */
 }
 
 td {
