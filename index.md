@@ -17,3 +17,25 @@ Syntax highlighted code block
 
 
 [DonPolo](DonPolo.md)
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Prix</th>
+      <th>Stock</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pommes</td>
+      <td>1.99</td>
+      <td>739</td>
+    </tr>
+    <tr>
+      <td>Bananas</td>
+      <td>1.89</td>
+      <td>6</td>
+    </tr>
+  </tbody>
+</table>
