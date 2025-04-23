@@ -1,3 +1,16 @@
+<style>
+table {
+    width: 600px;
+    height: 150px;
+    border-spacing: 3px
+}
+th {
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}
+</style>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/your-username/your-repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -40,18 +53,7 @@ Syntax highlighted code block
     </tbody>
 </table>
 
-<style>
-table {
-    width: 600px;
-    height: 150px;
-    border-spacing: 3px
-}
-th {
-    color: white;
-    background-color: black;
-    font-size: 20px;
-}
-</style>
+
 
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
