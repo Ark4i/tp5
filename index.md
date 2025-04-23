@@ -45,7 +45,7 @@ Syntax highlighted code block
 
 <style>
 table {
-  width: 10000px;
+  width: 1000px;
   border-collapse: collapse;
   font-family: Arial, sans-serif;
   font-size: 18px; /* Taille du texte */
