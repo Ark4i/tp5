@@ -23,7 +23,7 @@ Syntax highlighted code block
         <tr>
             <th style="color:white;">Item</th>
             <th style="texte-align: center; color:white;">Prix</th>      
-            <th style="texte-align: right">Stock</th>
+            <th style="texte-align: right; color:white;">Stock</th>
         </tr>
     </thead>
     <tbody style="background-color: lightgray;">
