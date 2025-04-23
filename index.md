@@ -9,6 +9,9 @@ th {
     background-color: black;
     font-size: 20px;
 }
+td {
+    background-color: lightgray;
+}
 </style>
 
 ## Welcome to GitHub Pages
