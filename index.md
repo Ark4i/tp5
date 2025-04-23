@@ -1,19 +1,3 @@
-<style>
-thead {
-    width: 600px;
-    height: 150px;
-    border-spacing: 3px
-}
-th {
-    color: white;
-    background-color: black;
-    font-size: 20px;
-}
-td {
-    background-color: lightgray;
-}
-</style>
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/your-username/your-repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -62,3 +46,28 @@ Syntax highlighted code block
 </iframe>
 
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Lc3_2018_%28263682303%29_%28cropped%29.jpeg" alt="Image Linus" title="boum j'ai réussi" /></p>
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 600px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  text-align: left;
+  padding: 12px;
+}
+
+th {
+  background-color: #222;
+  color: white;
+  font-weight: bold;
+}
+
+td {
+  background-color: #ccc;
+}
+</style>
