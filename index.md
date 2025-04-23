@@ -41,38 +41,17 @@ Syntax highlighted code block
 </table>
 
 <style>
+table {
+    width: 600px;
+    height: 150px;
+    border-spacing: 3px
+}
 th {
     color: white;
     background-color: black;
+    font-size: 20px;
 }
 </style>
-
-<table style="width: 600px; height: 150px; border-spacing: 3px;">
-    <thead style="background-color:black; ">
-        <tr>
-            <th style="color:white;">Item</th>
-            <th style="text-align: center; color:white;">Prix</th>      
-            <th style="text-align: right; color:white;">Stock</th>
-        </tr>
-    </thead>
-    <tbody style="background-color: lightgray;">
-            <tr>
-                <td>Pommes</td>
-                <td style="text-align: center">1.99</td>
-                <td style="text-align: right">739</td>
-            </tr>
-            <tr>
-                <td>Bananas</td>
-                <td style="text-align: center">1.89</td>
-                <td style="text-align: right">6</td>
-            </tr>
-    </tbody>
-</table>
-
-| Item     | Prix | Stock |
-|:---------|:----:|------:|
-| Pommes   | 1.99 |   739 |
-| Bananas  | 1.89 |     6 |
 
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
