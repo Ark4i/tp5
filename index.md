@@ -18,6 +18,35 @@ Syntax highlighted code block
 
 [DonPolo](DonPolo.md)
 
+<table>
+    <thead>
+        <tr>
+            <th>Item </th>
+            <th>Prix </th>      
+            <th>Stock</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>Pommes</td>
+                <td>1.99</td>
+                <td>739</td>
+            </tr>
+            <tr>
+                <td>Bananas</td>
+                <td>1.89</td>
+                <td>6</td>
+            </tr>
+    </tbody>
+</table>
+
+<style>
+th {
+    color: white;
+    background-color: black;
+}
+</style>
+
 <table style="width: 600px; height: 150px; border-spacing: 3px;">
     <thead style="background-color:black; ">
         <tr>
