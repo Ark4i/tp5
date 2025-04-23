@@ -22,20 +22,20 @@ Syntax highlighted code block
   <thead>
     <tr>
       <th>Item</th>
-      <th>Prix</th>
-      <th>Stock</th>
+      <th style="texte-align: center">Prix</th>
+      <th style="texte-align: right">Stock</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Pommes</td>
-      <td>1.99</td>
-      <td>739</td>
+      <td style="texte-align: center">1.99</td>
+      <td style="texte-align: right">739</td>
     </tr>
     <tr>
       <td>Bananas</td>
-      <td>1.89</td>
-      <td>6</td>
+      <td style="texte-align: center">1.89</td>
+      <td style="texte-align: right">6</td>
     </tr>
   </tbody>
 </table>
