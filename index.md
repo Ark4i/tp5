@@ -12,3 +12,5 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 [Pour se tenir informer en temps réel](https://www.actuniger.com/)
+
+<img src="./images/linus.jpeg" alt="Photo de Linus" />
