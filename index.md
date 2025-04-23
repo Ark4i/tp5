@@ -1,5 +1,5 @@
 <style>
-table {
+thead {
     width: 600px;
     height: 150px;
     border-spacing: 3px
